@@ -6,21 +6,23 @@ TagManager:
   tags:
   - Boss
   - Ground
+  - Test
+  - Wall
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Boss
   - Water
   - UI
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - Ground
+  - Platform
+  - Wall
+  - Player
+  - Effect
+  - Test
+  - Tackle
+  - God
   - 
   - 
   - 
@@ -40,6 +42,24 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: BackGround
+    uniqueID: 2183735097
+    locked: 0
+  - name: Platform
+    uniqueID: 944494979
+    locked: 0
+  - name: Boss
+    uniqueID: 1924457267
+    locked: 0
+  - name: Unit
+    uniqueID: 2912025991
+    locked: 0
+  - name: ForeGround
+    uniqueID: 2634039335
+    locked: 0
+  - name: Effect
+    uniqueID: 306540595
+    locked: 0
   - name: Default
     uniqueID: 0
     locked: 0

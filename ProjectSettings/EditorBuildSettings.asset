@@ -6,6 +6,60 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: 2cda990e2423bbf4892e6590ba056729
+    path: Assets/FinalScene/GameStart.unity
+    guid: ccfc03081848bfe42862277fb3dc4886
+  - enabled: 1
+    path: Assets/FinalScene/Main/Lobby.unity
+    guid: 51d0a3cab5db2154982a3e5a298bc053
+  - enabled: 1
+    path: Assets/FinalScene/Main/BossClear.unity
+    guid: ee8cf1176c0374d46b4aa01d9531f380
+  - enabled: 1
+    path: Assets/FinalScene/Main/GameClear.unity
+    guid: 0a58bcc5d6848134985eaad0fc52386b
+  - enabled: 1
+    path: Assets/FinalScene/Boss1/Boss1DStart.unity
+    guid: cc5814d7de0a27b43815242edd762f62
+  - enabled: 1
+    path: Assets/FinalScene/Boss1/Boss1DPhase.unity
+    guid: aa45b76dfc79a5a4181ada3a4005e63e
+  - enabled: 1
+    path: Assets/FinalScene/Boss1/Boss1DEnd.unity
+    guid: c8c05fc7b37ee22469813ab2e7381761
+  - enabled: 1
+    path: Assets/FinalScene/Boss1/Boss1SPhase1.unity
+    guid: 2cd0cabf8cb9fea4f94fd3e44ef61839
+  - enabled: 1
+    path: Assets/FinalScene/Boss1/Boss1SPhase2.unity
+    guid: b472bd1db5136af41a8192e8f156d78a
+  - enabled: 1
+    path: Assets/FinalScene/Boss2/Boss2DStart.unity
+    guid: e3fe20f33e87c4c4ea3275d3780eab41
+  - enabled: 1
+    path: Assets/FinalScene/Boss2/Boss2DPhase.unity
+    guid: b57b4fb19f8ecf04cbff51fe72613792
+  - enabled: 1
+    path: Assets/FinalScene/Boss2/Boss2DEnd.unity
+    guid: fd976e57cab4c0d49a85daa602912000
+  - enabled: 1
+    path: Assets/FinalScene/Boss2/Boss2SPhase1.unity
+    guid: 95c409af077a13740b0518fc6d51081e
+  - enabled: 1
+    path: Assets/FinalScene/Boss2/Boss2SPhase2.unity
+    guid: 39a7333df0c832e478b5269bbf4e08b3
+  - enabled: 1
+    path: Assets/FinalScene/Boss3/Boss3DStart.unity
+    guid: 0f4b1cb751ad7794bbccd15121d9bbb7
+  - enabled: 1
+    path: Assets/FinalScene/Boss3/Boss3DPhase.unity
+    guid: a167e4eb987f6374faa6f922c37b0437
+  - enabled: 1
+    path: Assets/FinalScene/Boss3/Boss3DEnd.unity
+    guid: adfcedc4e19bb104bbe8c0ff3c69d873
+  - enabled: 1
+    path: Assets/FinalScene/Boss3/Boss3SPhase1.unity
+    guid: 00ab69395ae070f44b071a9982d3036a
+  - enabled: 1
+    path: Assets/FinalScene/Boss3/Boss3SPhase2.unity
+    guid: 25705b5068a5f9944823e6b6094cd947
   m_configObjects: {}

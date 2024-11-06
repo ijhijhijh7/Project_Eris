@@ -1,0 +1,7 @@
+EventName,캐릭터 ID,캐릭터 이름,대사
+Phase1,Boss_2_1,아포카리온,비참한 죄인이여! 내가 베풀어 줄 자비는 없다. <br>네 존재는 사라질 뿐이다.
+,Player,에리스,그만 말하고 덤벼!
+,Boss_2_1,아포카리온,<b><color=red><size=54>네 녀석이 내 고통을 알고 있는가!!!</size></color></b>
+,,,<b><color=red><size=54>보아라! 신께서 나에게 내려주신 은총을!!!</size></color></b>
+,Player,에리스,시끄럽군.
+end,end,end,
